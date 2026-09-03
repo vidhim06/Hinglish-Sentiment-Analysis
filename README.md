@@ -285,7 +285,7 @@ Hinglish-Sentiment-Analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Hinglish-Sentiment-Analysis.git
+git clone https://github.com/vidhim06/Hinglish-Sentiment-Analysis.git
 ```
 
 ### 2. Navigate to the project
